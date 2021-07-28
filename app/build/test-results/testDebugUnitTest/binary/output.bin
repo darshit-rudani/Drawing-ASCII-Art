@@ -1,0 +1,64 @@
+
+
+IYour assignment HAS NOT BEEN SUBMITTED. The following test results only
+estimate your grade.
+
+
+"Your estimated score is: 90.0/90
+L(This is not your actual grade for this assignment, just an estimate. Your
+Pofficial grade will be calculated after you submit your submission.zip file to
+
+Coursera.
+
+
+Q------------------------------Assignment Evaluation-----------------------------
+Q--------Your solution received points for the following grading rubrics:--------
+
+
+testDiamond6
+Rubric Score: 10.0/10.0
+7Goal: The goal of this evaluation is to test Diamond 6
+=Reference: This Test fails when: The Diamond size 6 is wrong
+
+testDiamond7
+Rubric Score: 10.0/10.0
+7Goal: The goal of this evaluation is to test Diamond 7
+=Reference: This Test fails when: The Diamond size 7 is wrong
+
+testDiamond8
+Rubric Score: 10.0/10.0
+7Goal: The goal of this evaluation is to test Diamond 8
+=Reference: This Test fails when: The Diamond size 8 is wrong
+
+randomTest
+Rubric Score: 10.0/10.0
+PGoal: The goal of this evaluation is to test that your Diamonds are independent
+OReference: This Test fails when: your code is dependent on the order in which
+the tests are run
+
+testDiamond4
+Rubric Score: 10.0/10.0
+7Goal: The goal of this evaluation is to test Diamond 4
+=Reference: This Test fails when: The Diamond size 4 is wrong
+
+testDiamond1
+Rubric Score: 10.0/10.0
+7Goal: The goal of this evaluation is to test Diamond 1
+=Reference: This Test fails when: The Diamond size 1 is wrong
+
+testDiamond2
+Rubric Score: 10.0/10.0
+7Goal: The goal of this evaluation is to test Diamond 2
+=Reference: This Test fails when: The Diamond size 2 is wrong
+
+testDiamond3
+Rubric Score: 10.0/10.0
+7Goal: The goal of this evaluation is to test Diamond 3
+=Reference: This Test fails when: The Diamond size 3 is wrong
+
+testDiamond5
+Rubric Score: 10.0/10.0
+7Goal: The goal of this evaluation is to test Diamond 5
+=Reference: This Test fails when: The Diamond size 5 is wrong
+
+
